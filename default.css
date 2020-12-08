@@ -18,6 +18,9 @@ html, body {
     margin: 0;
     font-family: 'Roboto Mono', monospace;
     scroll-behavior: smooth;
+    top: -30;
+    left: -30;
+    filter: blur(0px);
 }
 
 body *{
