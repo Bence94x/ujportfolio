@@ -80,6 +80,7 @@ h6 {font-size: 16px;}
     background-color: var(--secondaryColor);
     border: 1px solid var(--borderColor);
     border-radius: 5px 5px 0 0;
+    margin-bottom: 10px;
 
     -webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
     -moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
@@ -276,6 +277,10 @@ h6 {font-size: 16px;}
     padding-bottom: 50px;
     padding-top: 50px;
     gap: 100px;
+}
+
+#goals > ul {
+    padding-left: 20px;
 }
 
 #skills {
